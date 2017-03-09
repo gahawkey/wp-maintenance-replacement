@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+<!--
+This uses the default core WordPress maintenance mode functionality, but replaces the standard "Briefly unavailable for scheduled maintenance. Check back in a munute." message.
+Place this file in your wp-content directory, eg. https://mysite.com/wp-content/maintenance.php
+-->
 <html>
 <head>
 	<title>Be back soon :)</title>
